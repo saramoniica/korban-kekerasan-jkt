@@ -1,0 +1,35 @@
+pekerjaan,terlibat,value_pekerjaan,range_usia,value_usia,tingkat_pendidikan,value_pendidikan
+Ibu Rumah Tangga,jumlah_korban,280,,,,
+Ibu Rumah Tangga,jumlah_pelaku,19,,,,
+Lainnya,jumlah_korban,97,,,,
+Lainnya,jumlah_pelaku,183,,,,
+Pedagang/Tani/Nelayan,jumlah_korban,8,,,,
+Pedagang/Tani/Nelayan,jumlah_pelaku,18,,,,
+Pegawai Swasta/Buruh,jumlah_korban,80,,,,
+Pegawai Swasta/Buruh,jumlah_pelaku,378,,,,
+Pelajar,jumlah_korban,397,,,,
+Pelajar,jumlah_pelaku,31,,,,
+PNS/TNI/Polri,jumlah_korban,2,,,,
+PNS/TNI/Polri,jumlah_pelaku,11,,,,
+Tidak bekerja,jumlah_korban,61,,,,
+Tidak bekerja,jumlah_pelaku,17,,,,
+,jumlah_korban,,0 - 17 thn,494,,
+,jumlah_pelaku,,0 - 17 thn,22,,
+,jumlah_korban,,18 - 24 thn,151,,
+,jumlah_pelaku,,18 - 24 thn,86,,
+,jumlah_korban,,25 - 59 thn,294,,
+,jumlah_pelaku,,25 - 59 thn,530,,
+,jumlah_korban,,60 +,8,,
+,jumlah_pelaku,,60 +,13,,
+,jumlah_korban,,,,Perguruan Tinggi,97
+,jumlah_pelaku,,,,Perguruan Tinggi,118
+,jumlah_korban,,,,SD,188
+,jumlah_pelaku,,,,SD,15
+,jumlah_korban,,,,SLTA,359
+,jumlah_pelaku,,,,SLTA,413
+,jumlah_korban,,,,SLTP,187
+,jumlah_pelaku,,,,SLTP,102
+,jumlah_korban,,,,Tidak Sekolah,62
+,jumlah_pelaku,,,,Tidak Sekolah,2
+,jumlah_korban,,,,TK/PAUD,20
+,jumlah_pelaku,,,,TK/PAUD,0
